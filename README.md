@@ -48,34 +48,6 @@ Building real-world applications, scalable systems & modern web experiences 🚀
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧠 AI Resume Screener
-
-Full-stack application that analyzes resumes against Job Descriptions, scores candidates, generates analytics dashboards & rankings.
-
-**Tech:** React • FastAPI • Vercel • Render
-
----
-
-### 🏃 Marathon Registration System
-
-✔ Email Confirmation  
-✔ Certificate Generation  
-✔ Responsive UI  
-✔ Full Stack Architecture
-
----
-
-### 🔐 Password Strength Checker
-
-Python + Streamlit application for:
-
-✔ Password Analysis  
-✔ Password Generation  
-✔ Strength Evaluation
-
----
 
 ## 📈 GitHub Stats
 
