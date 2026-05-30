@@ -1,62 +1,113 @@
-<h1 align="center">Hi 👋, I'm Savi</h1>
+```md
+<h1 align="center">Hi 👋 I'm Savi</h1>
+
+<h3 align="center">
+Full Stack Developer • React • Node.js • Python
+</h3>
 
 <p align="center">
-💻 Full Stack Developer (React + Node.js) <br/>
-🚀 Building real-world projects
+Building real-world applications, scalable systems & modern web experiences 🚀
+</p>
+
+<p align="center">
+  <a href="https://github.com/026-savi">
+    <img src="https://komarev.com/ghpvc/?username=026-savi&label=Profile%20Views&color=7C3AED&style=flat" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-* 💼 Currently working on an **Internship**
-* 🌱 Learning **Backend & API Development**
-* ⚡ Interested in **real-world applications & scalable systems**
+💼 Currently pursuing practical industry experience through **internships & real-world projects**
 
----
+🌱 Learning **Backend Development, APIs & Scalable Systems**
 
-## 🛠️ Tech Stack
+⚡ Passionate about **building products that solve real problems**
 
-### 💻 Frontend
-
-* React.js
-* Vite
-* HTML
-* CSS
-* JavaScript
-
-### ⚙️ Backend
-
-* Node.js
-* Express.js
-
-### 🧠 Other
-
-* Python
-* Streamlit
-* PostgreSQL
+🎯 Focused on **Full Stack Development + Problem Solving**
 
 ---
 
-## 🚀 Featured Work
+# 🛠️ Tech Stack
 
-* 🏃 **Marathon Registration System**
-  → Full-stack web app with email confirmation & certificate generation
+### Frontend
 
-* 🔐 **Password Strength Checker**
-  → Built using Python & Streamlit for password analysis and generation
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Database & Tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📫 Connect With Me
+# 🚀 Featured Projects
 
-* 🔗 LinkedIn: https://www.linkedin.com/in/savisethi/
-* 📧 Email: [savisethi26@gmail.com](mailto:savisethi26@gmail.com)
+### 🧠 AI Resume Screener
+Full-stack application that analyzes resumes against Job Descriptions, scores candidates, generates analytics dashboards & rankings.
+
+**Stack:** React • FastAPI • Vercel • Render
+
+---
+
+### 🏃 Marathon Registration System
+
+Full-stack registration platform with:
+
+✔ Email Confirmation  
+✔ Certificate Generation  
+✔ Responsive UI  
+✔ Database Integration
+
+---
+
+### 🔐 Password Strength Checker
+
+Python + Streamlit application for:
+
+✔ Password Analysis  
+✔ Secure Password Generation  
+✔ Strength Evaluation
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=026-savi&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=026-savi&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+📧 **Email:** savisethi26@gmail.com
+
+💼 **LinkedIn:**  
+www.linkedin.com/in/savisethi/
 
 ---
 
 <p align="center">
-⭐ Keep Building • Keep Growing 🚀
+⭐ Keep Building • Keep Learning • Keep Growing 🚀
 </p>
+```
+
 
 
