@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋 I'm Savi</h1>
 
 <h3 align="center">
@@ -10,26 +10,21 @@ Building real-world applications, scalable systems & modern web experiences 🚀
 </p>
 
 <p align="center">
-  <a href="https://github.com/026-savi">
-    <img src="https://komarev.com/ghpvc/?username=026-savi&label=Profile%20Views&color=7C3AED&style=flat" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=026-savi&label=Profile%20Views&color=7C3AED&style=flat" />
 </p>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-💼 Currently pursuing practical industry experience through **internships & real-world projects**
-
-🌱 Learning **Backend Development, APIs & Scalable Systems**
-
-⚡ Passionate about **building products that solve real problems**
-
-🎯 Focused on **Full Stack Development + Problem Solving**
+- 💼 Currently pursuing practical industry experience through **internships & projects**
+- 🌱 Learning **Backend Development, APIs & Scalable Systems**
+- ⚡ Passionate about **building products that solve real problems**
+- 🎯 Focused on **Full Stack Development + Problem Solving**
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
 
@@ -42,34 +37,33 @@ Building real-world applications, scalable systems & modern web experiences 🚀
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Database & Tools
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 🧠 AI Resume Screener
+
 Full-stack application that analyzes resumes against Job Descriptions, scores candidates, generates analytics dashboards & rankings.
 
-**Stack:** React • FastAPI • Vercel • Render
+**Tech:** React • FastAPI • Vercel • Render
 
 ---
 
 ### 🏃 Marathon Registration System
 
-Full-stack registration platform with:
-
 ✔ Email Confirmation  
 ✔ Certificate Generation  
 ✔ Responsive UI  
-✔ Database Integration
+✔ Full Stack Architecture
 
 ---
 
@@ -78,12 +72,12 @@ Full-stack registration platform with:
 Python + Streamlit application for:
 
 ✔ Password Analysis  
-✔ Secure Password Generation  
+✔ Password Generation  
 ✔ Strength Evaluation
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
 
@@ -95,12 +89,13 @@ Python + Streamlit application for:
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-📧 **Email:** savisethi26@gmail.com
+📧 **Email:**  
+savisethi26@gmail.com
 
 💼 **LinkedIn:**  
-www.linkedin.com/in/savisethi/
+https://www.linkedin.com/in/savisethi/
 
 ---
 
@@ -108,6 +103,11 @@ www.linkedin.com/in/savisethi/
 ⭐ Keep Building • Keep Learning • Keep Growing 🚀
 </p>
 ```
+
+
+
+
+
 
 
 
